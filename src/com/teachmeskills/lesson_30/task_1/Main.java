@@ -26,6 +26,7 @@ public class Main {
                     .setWithBeef(withBeef)
                     .setWithMushrooms(withMushrooms)
                     .setWithCheeseSauce(withCheeseSauce)
+                    .setWithKetchup(withKetchup)
                     .buildPizza();
 
             System.out.println(yourPizza.toString());
